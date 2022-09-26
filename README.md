@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # assignment
 ## CRUD operations using JsonPowerDB
 JsonPowerDB is a Database Server with Developer friendly REST API services. It's a High Performance, Light Weight, Ajax Enabled, Serverless, Simple to Use, Real-time Database.
@@ -23,3 +24,6 @@ JsonPowerDB is a Database Server with Developer friendly REST API services. It's
 ###Screenshots
 
 ![](/assets/Screenshot(1).png)
+=======
+
+>>>>>>> ff59ccb5218d8af5d42cd3444d7a5a7c2f8c65f6
